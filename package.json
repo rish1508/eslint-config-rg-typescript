@@ -1,0 +1,23 @@
+{
+  "name": "@rish1508/eslint-config-rg-typescript",
+  "version": "1.0.0",
+  "description": "Eslint configuration with typescript",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rish1508/eslint-config-rg-typescript.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+  "author": "rishabh",
+  "license": "ISC"
+}
